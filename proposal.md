@@ -45,4 +45,3 @@ Adicionales para Aprobación
 |:-|:-|
 |Listados |1.Listado de entregas filtrado por rango de fecha y por cliente|
 |CUU/Epic|1. Dar de baja pedido<br>2. Dar de baja cliente|
-|Otros|1. Envío de recordatorio del pedido por mail|
