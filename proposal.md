@@ -16,7 +16,7 @@
 La empresa de nuestro trabajo es un supermercado "FAST" que quiere desarrollar una página web para que los clientes puedan realizar pedidos de forma online.
 
 ### Modelo
-![MODELO FINAL](https://github.com/user-attachments/assets/e054de90-d9a7-47eb-b482-72d6071ff2bd)
+<img width="786" height="796" alt="version TP FINAL 8-2" src="https://github.com/user-attachments/assets/fd3ec264-7213-4490-970a-59be6bc4b3a3" />
 
 ## Alcance Funcional 
 
