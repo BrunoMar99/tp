@@ -8,12 +8,12 @@
 * 42775 - Reinoso, Alfredo
 
 ### Repositorios
-* [frontend app]https://github.com/exe72418/DDS-FRONTEND
-* [backend app]https://github.com/exe72418/DDS-BACKEND
+* [frontend app](https://github.com/Facultad-utn-desarrollo/DDS-FRONTEND/tree/stable)
+* [backend app](https://github.com/Facultad-utn-desarrollo/DDS-BACKEND/tree/stable)
 
 ## Tema
 ### Descripción
-La empresa de nuestro trabajo es un supermercado "FAST" que quiere desarrollar una página web para que los clientes puedan realizar pedidos de forma online.
+La empresa de nuestro trabajo es un supermercado "FAST" que busca desarrollar una plataforma web para que los clientes puedan realizar pedidos de forma online. El sistema administra todo el ciclo de venta, desde la selección de productos hasta la entrega (delivery) y el pago, diferenciando roles entre Clientes y Administradores.
 
 ### Modelo
 <img width="786" height="796" alt="version TP FINAL 8-2" src="https://github.com/user-attachments/assets/fd3ec264-7213-4490-970a-59be6bc4b3a3" />
